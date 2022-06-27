@@ -1,0 +1,81 @@
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe.config
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.pdb
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csprojResolveAssemblyReference.cache
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Form1.resources
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Properties.Resources.resources
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csproj.GenerateResource.Cache
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.exe
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.pdb
+c:\users\alexpert\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Menu2.resources
+C:\Users\ALEXPERT\documents\visual studio 2012\Projects\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Juego.resources
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe.config
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.exe
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.pdb
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.pdb
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csprojResolveAssemblyReference.cache
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Form1.resources
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Juego.resources
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Menu2.resources
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Properties.Resources.resources
+C:\Users\Yuuki\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csproj.GenerateResource.Cache
+H:\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe.config
+H:\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.exe
+H:\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe.config
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.exe
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csprojResolveAssemblyReference.cache
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Form1.resources
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Juego.resources
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Menu2.resources
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Properties.Resources.resources
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csproj.GenerateResource.Cache
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe.config
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.exe
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csprojResolveAssemblyReference.cache
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Form1.resources
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Juego.resources
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Menu2.resources
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Properties.Resources.resources
+C:\Users\ALEXPERT\Desktop\JuegoBetaMonopolio\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csproj.GenerateResource.Cache
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe.config
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.exe
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csprojResolveAssemblyReference.cache
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Form1.resources
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Juego.resources
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Menu2.resources
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Properties.Resources.resources
+C:\Users\ALEXPERT\Desktop\backup juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csproj.GenerateResource.Cache
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe.config
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.exe
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.pdb
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.pdb
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csprojResolveAssemblyReference.cache
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Form1.resources
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Juego.resources
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Menu2.resources
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Properties.Resources.resources
+C:\Users\Yuuki\Desktop\recovery\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csproj.GenerateResource.Cache
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe.config
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.exe
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csprojResolveAssemblyReference.cache
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Form1.resources
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Juego.resources
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Menu2.resources
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Properties.Resources.resources
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.csproj.GenerateResource.Cache
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.exe
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\bin\Debug\JuegoBetaMonopolio.pdb
+C:\Users\ALEXPERT\Desktop\Monopolio\juego monopolio\JuegoBetaMonopolio\obj\Debug\JuegoBetaMonopolio.Final.resources
